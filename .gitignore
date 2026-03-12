@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+.env
+.env.*  # any additional env files
+
+# Streamlit cache
+.streamlit/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python test cache
+.pytest_cache/
+coverage.xml
+
+# Temp files
+*.tmp
+*.swp
+
+# Ignore output files from data processing
+*.csv
+*.xlsx
+*.pdf
+*.docx
