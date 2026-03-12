@@ -1,0 +1,10 @@
+
+pydantic>=2.0.0
+rich>=13.0.0
+streamlit
+requests
+python-dotenv
+pandas
+PyPDF2
+python-docx
+openpyxl
